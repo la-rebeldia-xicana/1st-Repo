@@ -1,0 +1,7 @@
+<details>
+---yml
+theme: minima
+title: {{ login }}, Putting the fun in funeral >:-|
+author: {{ login }}
+'''
+</details>
